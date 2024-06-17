@@ -1,4 +1,3 @@
-
 /**
  * 
  * 
@@ -11,8 +10,8 @@
  }
  */
 
-export const defaultStyles = {
-    'tabs':{
+ export const defaultStyles = {
+    tabs:{
             identifier:'_default', 
             name:'Default',
             cssStyle:`
